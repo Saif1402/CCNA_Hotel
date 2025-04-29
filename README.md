@@ -5,12 +5,14 @@ Hotel Network Design & Implementation
 This project involves designing and implementing a multi-floor hotel network infrastructure using Cisco Packet Tracer. The hotel has three floors, each containing multiple departments, and uses advanced routing, VLANs, wireless connectivity, and security features to provide both internet access and internal communication.
 
 🧱 Hotel Floor Plan and Department Layout
+
 🟩 First Floor:
 Reception – VLAN 80 – 192.168.8.0/24
 
 Store – VLAN 70 – 192.168.7.0/24
 
 Logistics – VLAN 60 – 192.168.6.0/24
+
 
 🟦 Second Floor:
 Sales & Marketing – VLAN 30 – 192.168.3.0/24
@@ -19,10 +21,12 @@ Human Resource (HR) – VLAN 40 – 192.168.4.0/24
 
 Finance – VLAN 50 – 192.168.5.0/24
 
+
 🟨 Third Floor:
 IT Department – VLAN 10 – 192.168.1.0/24
 
 Admin Department – VLAN 20 – 192.168.2.0/24
+
 
 🧩 Network Devices and Topology
 Routers: 3 routers (one for each floor) located in the server room.
